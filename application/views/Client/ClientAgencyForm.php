@@ -16,7 +16,7 @@
     <style type="text/css">
       #map{ width:600px; height: 330px; }
     </style>
-    <script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?key=AIzaSyClJ7bohWjfhtUsd71UVKXfsu48-Wq5O5s&sensor=false&amp;libraries=places"></script>
+    <script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?key="></script>
 
     <title>AFFITTO - Register Agency</title>
 

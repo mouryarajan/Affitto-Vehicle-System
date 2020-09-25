@@ -121,7 +121,7 @@
                                 }
                                 </script>
                                 <script async defer
-                                src="https://maps.googleapis.com/maps/api/js?key=AIzaSyClJ7bohWjfhtUsd71UVKXfsu48-Wq5O5s&sensor=false&amp;libraries=places&callback=initMap">
+                                src="https://maps.googleapis.com/maps/api/js?key=">
                             </script>
                         </section>
                     </div>
